@@ -2,8 +2,7 @@
 Sou a **Larissa Rocha**, estudante de **Ciência da Computação** na Estácio (2º período), apaixonada por tecnologia e desenvolvimento web.
 
 💻 Estou no início da minha trajetória como programadora e já desenvolvi pequenos projetos com **HTML**, **CSS** e **JavaScript**, sempre buscando evoluir minhas habilidades técnicas.
-
-🌱 Atualmente, estou aprendendo também **PHP**, **C** e **Banco de Dados**.  
+ Atualmente, estou aprendendo também **PHP**, **C** e **Banco de Dados**.  
 🎯 Meu foco é construir uma carreira sólida na área de **Desenvolvimento Web** e, futuramente, explorar áreas como **Backend** e **Full Stak**.
 Ferramentas e Linguagens 
 <div align="left">
