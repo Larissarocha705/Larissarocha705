@@ -4,7 +4,8 @@ Sou a **Larissa Rocha**, estudante de **Ciência da Computação** na Estácio (
 💻 Estou no início da minha trajetória como programadora e já desenvolvi pequenos projetos com **HTML**, **CSS** e **JavaScript**, sempre buscando evoluir minhas habilidades técnicas.
 
 🌱 Atualmente, estou aprendendo também **PHP**, **C** e **Banco de Dados**.  
-🎯 Meu foco é construir uma carreira sólida na área de **Desenvolvimento Web** e, futuramente, explorar áreas como **segurança da informação** e **análise de dados**.
+🎯 Meu foco é construir uma carreira sólida na área de **Desenvolvimento Web** e, futuramente, explorar áreas como **Backend** e **Full Stak**.
+Ferramentas e Linguagens 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
