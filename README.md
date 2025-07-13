@@ -30,6 +30,7 @@ Ferramentas e Linguagens
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
 </div>
+
 🔗 Conecte-se comigo:
 - [LinkedIn](https://www.linkedin.com/in/larissarocha)  
 - [E-mail](mailto:laryssa_rocha@outlook.com)  
